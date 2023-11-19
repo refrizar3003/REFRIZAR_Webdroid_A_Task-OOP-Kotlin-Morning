@@ -49,7 +49,7 @@ fun myTeam(): List<Any> {
  *
  */
 fun totalMember(): Int {
-    val mentor = arrayOf<String>("Ka Hasan, Ka Yogi")
+    val mentor = arrayOf<String>("Ka Hasan", "Ka Yogi")
     val countOfGroup = arrayOf<String>("Adi", "Lisa", "REFRIZAR", "Mila", "Tiya", "Aditya", "Chandra", "Khaerul",
         "Diah", "Ramadhan")
 
